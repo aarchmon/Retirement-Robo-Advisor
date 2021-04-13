@@ -1,6 +1,6 @@
 # Retirement Robo Advisor
 
-![Robo Advising](./Images/robo_advisor.png)
+![Robo Advising](./Images/robo_advisor.jpeg)
 
 ---
 
