@@ -40,8 +40,15 @@ import warnings
 
 ---
 
-## Examples
+## Robo Advisor Recording (Base - No Business Logic)
 
+![Base Robo Advisor](./Recording/Robo_Advisor_recording.mov)
+
+---
+
+## Robo Advisor Recording (Complete with Business Logic)
+
+---
 
 
 ---
